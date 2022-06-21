@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/drawable/ic_baseline_business_24.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/drawable/round_border.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/drawable/round_button.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/drawable/search_view_bg.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_bar.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_cafe.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_context.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_establishments.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_login.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_make_review.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_profile.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_restaurant.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/activity_reviews.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/dropdown_item.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/fragment_bar.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/fragment_cafe.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/fragment_login.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/fragment_register.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/fragment_restaurant.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/header_menu.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/one_item_review.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/layout/singledata.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/menu/bottom_navmenu.xml" value="0.184375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/menu/flow_menu.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ReviewsApp/app/src/main/res/menu/main_main.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

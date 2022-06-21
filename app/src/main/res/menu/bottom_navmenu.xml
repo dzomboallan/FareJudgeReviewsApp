@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Cafe"
+        android:icon="@drawable/ic_baseline_local_cafe_24"
+        android:id="@+id/cafe"/>
+    <item android:title="Restaurant"
+        android:icon="@drawable/ic_baseline_restaurant_24"
+        android:id="@+id/restaurant"/>
+    <item android:title="Bar"
+        android:icon="@drawable/ic_baseline_wine_bar_24"
+        android:id="@+id/bar"/>
+
+</menu>
